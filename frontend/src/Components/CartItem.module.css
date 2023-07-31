@@ -1,0 +1,18 @@
+/* Styles cho các phần có trong CartItem để hiển thị theo đúng yêu cầu đề bài */
+.nameProduct {
+  font-size: 20px;
+  font-weight: 500;
+  width: 30%;
+  padding: 36px;
+}
+.priceProduct {
+  font-weight: 400;
+  color: #868e96;
+}
+.quantityProduct {
+  font-style: normal;
+  font-weight: 400;
+}
+.quantityProduct > input {
+  width: 80px;
+}
