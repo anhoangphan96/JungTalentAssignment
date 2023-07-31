@@ -10,6 +10,6 @@ This app was build on ReactJS as frontend framework and NodeJS as backend
 - Choose atleast one product with one quantity you want to checkout
 - Check all the information
 - Click create Order
-- If the order is created successfully, you will be landed to checkout page of scala
-  **Note: i use checkout by 3 instalments
+- If the order is created successfully, you will be landed to checkout page of scala <br/>
+  **Note: i use checkout by 3 instalments<br/>
   **Note: the countrycode please input with two digit only.
